@@ -1,4 +1,4 @@
-# InteligenciaArtificial
+# Inteligencia Artificial
 
 Dataset de treinamento [aqui](Dataset_Treinamento.csv)
 
